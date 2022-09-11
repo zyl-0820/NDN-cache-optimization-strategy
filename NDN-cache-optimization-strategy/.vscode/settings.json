@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "dpdk_model_v1model.h": "c",
+        "des.h": "c",
+        "util_packet.h": "c",
+        "util.h": "c",
+        "dpdk_lib.h": "c"
+    }
+}
